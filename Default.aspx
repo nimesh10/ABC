@@ -9,7 +9,8 @@
 <body>
     <form id="form1" runat="server">
     <div>
-        <%--Wellcome to default.aspx.cs--%>
+        <%--This is test only.--%>
+        <%--5/10/2012--%>
     </div>
     </form>
 </body>
