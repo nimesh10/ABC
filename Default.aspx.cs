@@ -14,7 +14,6 @@ public partial class _Default : System.Web.UI.Page
 {
     protected void Page_Load(object sender, EventArgs e)
     {
-       //Wellcome to default.aspx.cs
-        //5/10/2012
+       //Resolve by Nimesh on Default.aspx.cs
     }
 }
